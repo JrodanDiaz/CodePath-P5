@@ -1,8 +1,8 @@
-# Web Development Project 5 - _Name of App Here_
+# Web Development Project 5 - Event Finder
 
 Submitted by: Jordan Diaz
 
-This web app: **insert description**
+This web app: Quickly find events based on your inputted State, City, or desired event type
 
 Time spent: **X** hours spent in total
 
