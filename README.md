@@ -4,7 +4,7 @@ Submitted by: Jordan Diaz
 
 This web app: Quickly find events based on your inputted State, City, or desired event type
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
