@@ -23,19 +23,16 @@ The following **optional** features are implemented:
 - [ ] Filters use different input types such as a text input, a selection, or a slider
 - [ ] The user can enter specific bounds for filter values
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you added to improve the site's functionality!
-
-## Video Walkthrough
+## Walkthrough
 
 Here's a walkthrough of implemented features
 
-GIF created with LiceCap
+![Screenshot 2023-10-17 024817](https://github.com/JrodanDiaz/CodePath-P5/assets/129818825/fa50216b-0727-4cc5-b17e-f095f81d95a7)
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+After changing the state variables of State, City, or EventType, the url would update, but the fetch would return a networkError. When I opened the updated url in my browser, I got the expected JSON response, but it would not work with fetch()
 
 ## License
 
